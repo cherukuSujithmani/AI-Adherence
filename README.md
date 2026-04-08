@@ -170,14 +170,4 @@ python generate_data.py
 | Export | fpdf2, openpyxl |
 | Numerical | SciPy, statsmodels, Numba |
 
----
 
-## 📄 License
-
-This project is for educational / research purposes. See `LICENSE` if included, or contact the repository owner for usage terms.
-
----
-
-## 🙋 Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
